@@ -1,0 +1,10 @@
+Particle Filter Object Tracking Demo in python
+
+this program is for object tracking on real time video input.
+you should set up webcam device in your computer before use.
+please tell me if you find bugs.
+================================================================================
+
+to use:
+- this program recognizes target object by its BGR color.
+  you can set target color changing values of "target_col" object(model_l function).
